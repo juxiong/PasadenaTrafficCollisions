@@ -1,5 +1,5 @@
-# PasadenaTrafficCollisions
-Analyzing traffic collisions in Pasadena
+# Pasadena Traffic Collisions
+We used data about traffic flow and accidents in Pasadena to create visualizations and learn more about the most important contributing factors in determining the cause of an accident. We also created a model to predict the cause of an accident that works with an accuracy of around 92%.
 
 Our code is separated in a few files. The preprocessing and XGBoost model are in mlAnalysis.ipynb. The traffic volume visualization is in GeoVis.ipynb. 
 
